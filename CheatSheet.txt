@@ -19,3 +19,6 @@
 
   //Get the ssh to copy on github
   cat ~/.ssh/id_ed25519.pub
+
+-- .gitignore file
+  //It is use to specify the files you don't won't in the repositorie
