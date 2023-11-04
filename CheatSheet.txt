@@ -1,6 +1,6 @@
 -- Setup Git
-  git config --global user.name "Your Name"
-  git config --global user.email "yourname@example.com"
+  git config --global user.name "BmmNdr"
+  git config --global user.email "abiemmibi@gmail.com"
 
   //Change default branch from master to main on new project
   git config --global init.defaultBranch main
@@ -13,7 +13,7 @@
 
 -- Setup SSH
   //Generate ad SSH file
-  ssh-keygen -t ed25519 -C "your@email.com"
+  ssh-keygen -t ed25519 -C "abiemmibi@gmail.com"
 
   //Go on setting on GitHub from the web and go to SSH and GPG keys and create a new SSH
 
